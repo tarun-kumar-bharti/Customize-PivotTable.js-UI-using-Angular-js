@@ -9,6 +9,9 @@ Add Custom Properties in PivotTable.js UI using Angular js
 
  ![image](https://user-images.githubusercontent.com/99207509/174745585-7dc4a127-745c-44ac-ac90-262b12ac978b.png)
 
+ 
+ ![image](https://user-images.githubusercontent.com/99207509/174746495-7621be4f-88b9-4faf-882b-c78e777b5554.png) 
+
 
 
 Adding custom properties like sticky header, zebra row at column level, row level, background color in Total, grand total, column  total.
